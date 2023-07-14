@@ -1,0 +1,12 @@
+C:\Users\One Gears\OneDrive\MY BOT\VIsualStudio\CheckerTemplate-main\checkertemplate\obj\Debug\checkertemplate.csproj.AssemblyReference.cache
+C:\Users\One Gears\OneDrive\MY BOT\VIsualStudio\CheckerTemplate-main\checkertemplate\obj\Debug\checkertemplate.csproj.SuggestedBindingRedirects.cache
+C:\Users\One Gears\OneDrive\MY BOT\VIsualStudio\CheckerTemplate-main\checkertemplate\obj\Debug\checkertemplate.csproj.CoreCompileInputs.cache
+C:\Users\One Gears\OneDrive\MY BOT\VIsualStudio\CheckerTemplate-main\checkertemplate\bin\Debug\checkertemplate.exe.config
+C:\Users\One Gears\OneDrive\MY BOT\VIsualStudio\CheckerTemplate-main\checkertemplate\bin\Debug\checkertemplate.exe
+C:\Users\One Gears\OneDrive\MY BOT\VIsualStudio\CheckerTemplate-main\checkertemplate\bin\Debug\checkertemplate.pdb
+C:\Users\One Gears\OneDrive\MY BOT\VIsualStudio\CheckerTemplate-main\checkertemplate\bin\Debug\Colorful.Console.dll
+C:\Users\One Gears\OneDrive\MY BOT\VIsualStudio\CheckerTemplate-main\checkertemplate\bin\Debug\Leaf.xNet.dll
+C:\Users\One Gears\OneDrive\MY BOT\VIsualStudio\CheckerTemplate-main\checkertemplate\bin\Debug\Leaf.xNet.xml
+C:\Users\One Gears\OneDrive\MY BOT\VIsualStudio\CheckerTemplate-main\checkertemplate\obj\Debug\checkertemplate.csproj.CopyComplete
+C:\Users\One Gears\OneDrive\MY BOT\VIsualStudio\CheckerTemplate-main\checkertemplate\obj\Debug\checkertemplate.exe
+C:\Users\One Gears\OneDrive\MY BOT\VIsualStudio\CheckerTemplate-main\checkertemplate\obj\Debug\checkertemplate.pdb
